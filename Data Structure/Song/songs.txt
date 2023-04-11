@@ -1,0 +1,6 @@
+İki keklik;Erkan Oğur;1003;Türk Halk;1996
+Barbar;Kaan Boşnak;1009;Indie;2021
+Heaven;The Walkmen;1002;Rock;2012
+Bal;Duman;1018;Rock ;2002
+Oceans;Seafret;1000;Indie;2016
+Beklenen Gemi;Kaan Boşnak;1010;Indie;2022
